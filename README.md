@@ -1,3 +1,8 @@
+
+![Screenshot_1](https://github.com/user-attachments/assets/d33b8d65-aae1-4a61-b967-b445a863fe61)
+
+Template Tailwind CSS
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
